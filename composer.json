@@ -2,8 +2,8 @@
     "name": "guille/bus_project",
     "license": "proprietary",
     "type": "project",
-	"keywords": ["formacion","symphony3","imagina",
-	"description": "Aplicacion creada para el curso de Symphony3 impartido por Imagina Formacion",
+	"keywords": ["formacion","symphony3","imagina"],
+	"description": "Aplicacion creada para el curso Symphony3 impartido por Imagina Formacion",
 	"authors": [
 		{
 			"name": "Guillermo Martin Belmonte",
@@ -30,6 +30,7 @@
     },
     "require": {
         "php": ">=5.5.9",
+		"another-vendor/package": "1.*"
         "doctrine/doctrine-bundle": "^1.6",
         "doctrine/orm": "^2.5",
         "incenteev/composer-parameter-handler": "^2.0",
